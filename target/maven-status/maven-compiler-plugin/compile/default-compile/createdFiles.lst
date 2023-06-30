@@ -1,0 +1,5 @@
+com\example\kafka\Main.class
+com\example\kafka\model\avro\User$1.class
+com\example\kafka\model\avro\User.class
+com\example\kafka\model\avro\User$Builder.class
+com\example\kafka\api\ProducerApi.class
